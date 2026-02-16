@@ -16,8 +16,8 @@ A Python bot that allows you to track the games that you want to buy with the he
 
 ## Setup
 
-1. Rename the ***.env.example*** file into ***.env***
-2. Configure the ***.env*** file
+1. Rename the `.env.example` file into `.env`
+2. Configure the `.env` file
 3. Run ```pip install -r requirements.txt```
 4. Start the bot with ```python bot.py```
 
